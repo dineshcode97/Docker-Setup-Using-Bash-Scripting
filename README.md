@@ -6,7 +6,7 @@
 
 ## Usage
 
-#### 1. Setup Docker in single command (copy this setup_file.sh same file in your Redhat linux and run)
+#### 1. Setup Docker in single command (copy this setupFile.sh same file in your Redhat linux and run)
 ```bash
-$ ./setup_file.sh
+$ ./setupFile.sh
 ```
